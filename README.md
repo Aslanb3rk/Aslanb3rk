@@ -9,17 +9,18 @@
 
 ## Обо мне:
 Я начинающий Backend разработчик. Мой путь в IT начался со школы, где я начал ходить на курсы по программированию. После поступил во ГБПОУ "Владикавказский колледж электроники" где продолжил свое обучение, продолжая изучать новые языки программирования. Далее поступил в ВУЗ (Северо-Кавказский горно-металлургический институт) по направлению "прикладная информатика". После окончания вуза, устроился на свою первую работу в области ЭЦП. Так же параллельно работал над администрированием БД (проектная работа). В данный момент продолжаю изучать Backend разработку на курсах Яндекс Практикум.
+Сейчас цель сделать хорошее
+##
 
-##
-*   ⌚ Время активности 10:00 - 0:00 (GMT+3)
-##
-## Написать мне
+  ## ⌚ Время активности 10:00 - 0:00 (GMT+3)
+
+## Написать мне:
 *   ✉️  [aslanberkw@gmail.com](mailto:aslanberkw@gmail.com)
 * <a href="https://t.me/Aslanb3rk" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="telegram logo"  />
 * <a href="https://discord.gg/momsspaghett1](https://discord.com/invite/bhdnMZ6YDj" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=Discord&label=&color=7289da&logoColor=white&labelColor=&style=for-the-badge" height="29" alt="discord logo"  />
-## Мои навыки 
+## Мои навыки:
 <tr><td valign="top" width="33%">
 
 <div align="center">  
