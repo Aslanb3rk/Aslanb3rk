@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="400" width="800" src="https://99px.ru/sstorage/86/2016/02/image_860902161500234143373.gif"  />
+  <img height="300" width="600" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
 </div>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=500&color=B0C4DE&center=true&random=false&width=1000&height=100&lines=Aslanb3rk" alt="Typing SVG" /></a>
 
