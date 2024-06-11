@@ -25,7 +25,7 @@
 
 ## Написать мне:
 *   ✉️  [aslanberkw@gmail.com](mailto:aslanberkw@gmail.com)
-* <a href="https://t.me/Aslanb3rk" target="_blank">
+* <a href="https://t.me/Aslanberk" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="23" alt="telegram logo"  />
 * <a href="https://discord.gg/momsspaghett1](https://discord.com/invite/bhdnMZ6YDj" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=Discord&label=&color=7289da&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
