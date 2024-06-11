@@ -24,11 +24,8 @@
   ## ⌚ Время активности 10:00 - 0:00 (GMT+3)
 
 ## Написать мне:
-*   ✉️  [aslanberkw@gmail.com](mailto:aslanberkw@gmail.com)
-* <a href="https://t.me/Aslanberk" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="23" alt="telegram logo"  />
-* <a href="https://discord.gg/momsspaghett1](https://discord.com/invite/bhdnMZ6YDj" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=Discord&label=&color=7289da&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+* # ✉️  [aslanberkw@gmail.com](mailto:aslanberkw@gmail.com) 
+
 ## Мои навыки:
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
@@ -45,7 +42,7 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Aslanb3rk&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 <br/>
 
-# 📌 Socials
+#  Socials
 
-<a href="https://t.me/Aslanberk"><img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" width=80px></a> <a href="https://discord.com/invite/bhdnMZ6YDj"><img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/62595384e89d1d54d704ece7_3437c10597c1526c3dbd98c737c2bcae.svg" width=100px></a> <a href="mailto:aslanberkw@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width=100px></a> 
+<a href="https://t.me/Aslanberk"><img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" width=80px></a> <a href="https://discord.com/invite/bhdnMZ6YDj"><img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/62595384e89d1d54d704ece7_3437c10597c1526c3dbd98c737c2bcae.svg" width=100px></a> 
 
