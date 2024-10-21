@@ -21,7 +21,7 @@
 <br>Сейчас цель сделать хорошее портфолио.
 ##
 
-  ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Eight O’Clock.png" alt="Eight O’Clock" width="25" height="25" /> Время активности 10:00 - 0:00 (GMT+3)
+  ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Eight O’Clock.png" alt="Eight O’Clock" width="25" height="25" /> Время активности 8:00 - 19:00 (GMT+3)
 
 ## Написать мне:
  # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Envelope%20with%20Arrow.png" alt="Envelope with Arrow" width="25" height="25" />  [aslanberkw@gmail.com](mailto:aslanberkw@gmail.com) #
