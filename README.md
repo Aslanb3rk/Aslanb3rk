@@ -36,7 +36,8 @@
 
 
   
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Link" width="25" height="25" />  Ещё способы написать мне
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Link" width="25" height="25" />  Ещё способы написать мне:
 
-<a href="https://t.me/+04eG4Df0h7s5MjVi"><img src="https://media.tenor.com/9ZsRZ-PXPlwAAAAi/telegram-gif.gif" width=41.5px></a> <a href="https://discord.com/invite/bhdnMZ6YDj"><img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width=50px></a> 
+<a href="https://t.me/+04eG4Df0h7s5MjVi"><img src="https://media.tenor.com/9ZsRZ-PXPlwAAAAi/telegram-gif.gif" width=40px; height=44px;></a> 
+<a href="https://discord.com/invite/bhdnMZ6YDj"><img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width=55px;  height=55px;></a> 
 
