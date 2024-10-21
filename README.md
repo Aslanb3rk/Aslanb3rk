@@ -38,5 +38,5 @@
   
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Link" width="25" height="25" />  Ещё способы написать мне
 
-<a href="https://t.me/+04eG4Df0h7s5MjVi"><img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" width=40px></a> <a href="https://discord.com/invite/bhdnMZ6YDj"><img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/62595384e89d1d54d704ece7_3437c10597c1526c3dbd98c737c2bcae.svg" width=50px></a> 
+<a href="https://t.me/+04eG4Df0h7s5MjVi"><img src="https://media.tenor.com/9ZsRZ-PXPlwAAAAi/telegram-gif.gif" width=41.5px></a> <a href="https://discord.com/invite/bhdnMZ6YDj"><img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width=50px></a> 
 
