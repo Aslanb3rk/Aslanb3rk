@@ -16,17 +16,17 @@
 
 <h1 align="center">Привет👋 меня зовут Аслан!</h1>
 
-## ☑️ Обо мне:
-Я начинающий Backend разработчик. Мой путь в IT начался со школы, где я начал ходить на курсы по программированию.<br><br> После поступил во ГБПОУ "Владикавказский колледж электроники" где продолжил свое обучение, продолжая изучать новые языки программирования.<br><br> Далее поступил в ВУЗ (Северо-Кавказский горно-металлургический институт) по направлению "прикладная информатика".<br><br> После окончания вуза, устроился на свою первую работу в области ЭЦП. Так же параллельно работал над администрированием БД (проектная работа). В данный момент продолжаю изучать Backend разработку на курсах Яндекс Практикум.<br>
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> Обо мне:
+Я начинающий Backend разработчик. Мой путь в IT начался со школы, где я начал ходить на курсы по программированию.<br><br> После поступил в ГБПОУ "Владикавказский колледж электроники" где продолжил свое обучение, продолжая изучать новые языки программирования.<br><br> Далее поступил в ВУЗ (Северо-Кавказский горно-металлургический институт) по направлению "прикладная информатика".<br><br> После окончания вуза, устроился на свою первую работу в области ЭЦП. Так же параллельно работал над администрированием БД. В данный момент продолжаю изучать Backend разработку на курсах яндекс практикума и stepik.<br>
 <br>Сейчас цель сделать хорошее портфолио.
 ##
 
-  ## ⌚ Время активности 10:00 - 0:00 (GMT+3)
+  ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Eight O’Clock.png" alt="Eight O’Clock" width="25" height="25" /> Время активности 10:00 - 0:00 (GMT+3)
 
 ## Написать мне:
-* # 📨  [aslanberkw@gmail.com](mailto:aslanberkw@gmail.com) #
+ # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Envelope%20with%20Arrow.png" alt="Envelope with Arrow" width="25" height="25" />  [aslanberkw@gmail.com](mailto:aslanberkw@gmail.com) #
 
-## Мои навыки:
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20File%20Box.png" alt="Card File Box" width="25" height="25" /> Мои навыки: 
 
 <div style="display: flex;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" /></div>
 
@@ -36,7 +36,7 @@
 
 
   
-#  Ещё способы написать мне
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Link" width="25" height="25" />  Ещё способы написать мне
 
 <a href="https://t.me/+04eG4Df0h7s5MjVi"><img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" width=40px></a> <a href="https://discord.com/invite/bhdnMZ6YDj"><img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/62595384e89d1d54d704ece7_3437c10597c1526c3dbd98c737c2bcae.svg" width=50px></a> 
 
