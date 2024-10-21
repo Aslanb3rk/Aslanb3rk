@@ -38,6 +38,6 @@
   
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Link" width="25" height="25" />  Ещё способы написать мне:
 
-<a href="https://t.me/+04eG4Df0h7s5MjVi"><img src="https://media.tenor.com/9ZsRZ-PXPlwAAAAi/telegram-gif.gif"   width=45px; height=49px;  ></a> 
-<a href="https://discord.com/invite/bhdnMZ6YDj"><img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width=55px;  height=55px;></a> 
+<a href="https://t.me/+04eG4Df0h7s5MjVi"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"     ></a> 
+<a href="https://discord.com/invite/bhdnMZ6YDj"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" ></a> 
 
