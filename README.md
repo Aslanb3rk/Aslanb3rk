@@ -17,7 +17,7 @@
 <h1 align="center">Привет <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" /> меня зовут Аслан!</h1>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> Обо мне:
-Я начинающий Backend разработчик. Мой путь в IT начался со школы, где я начал ходить на курсы по программированию.<br><br> После поступил в ГБПОУ "Владикавказский колледж электроники" где продолжил свое обучение, продолжая изучать новые языки программирования.<br><br> Далее поступил в ВУЗ (Северо-Кавказский горно-металлургический институт) по направлению "прикладная информатика".<br><br> После окончания вуза, устроился на свою первую работу в области ЭЦП. Так же параллельно работал над администрированием БД. В данный момент продолжаю изучать Backend разработку на курсах яндекс практикума и stepik.<br>
+Я начинающий Backend разработчик. Мой путь в IT начался со школы, где я начал ходить на курсы по программированию.<br><br> После поступил в ГБПОУ "Владикавказский колледж электроники" где продолжил свое обучение, продолжая изучать новые языки программирования.<br><br> Далее поступил в ВУЗ (ФГБОУ ВО СКГМИ (ГТУ)) по направлению "прикладная информатика".<br><br> После окончания вуза, устроился на свою первую работу в области ЭЦП. Так же параллельно работал над администрированием БД. В данный момент продолжаю изучать Backend разработку на курсах яндекс практикума и stepik.<br>
 <br>Сейчас цель сделать хорошее портфолио.
 ##
 
@@ -26,12 +26,12 @@
 ## Написать мне:
  # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Envelope%20with%20Arrow.png" alt="Envelope with Arrow" width="25" height="25" />  [aslanberkw@gmail.com](mailto:aslanberkw@gmail.com) #
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20File%20Box.png" alt="Card File Box" width="25" height="25" /> Мои навыки: 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Flexed%20Biceps.png" alt="Flexed Biceps" width="25" height="25" /> Мои навыки: 
 
-<div style="display: flex;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" /></div>
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="84" height="84" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="84" height="84" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="84" height="84" /><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="84" height="84" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="84" height="84" /><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="84" height="84" /><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="84" height="84" /><img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="84" height="84" /></div>
 
-## Моя статистика  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Aslanb3rk&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+ ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" /> Моя статистика  
+![Aslanb3rk's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aslanb3rk&theme=radical&hide_border=true)
 <br/>
 
 
