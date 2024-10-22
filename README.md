@@ -20,10 +20,9 @@
 <br>Сейчас цель сделать хорошее портфолио.
 ##
 
-  ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Eight O’Clock.png" alt="Eight O’Clock" width="25" height="25" /> Время активности 8:00 - 19:00 (GMT+3)
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Eight O’Clock.png" alt="Eight O’Clock" width="25" height="25" /> Время активности 8:00 - 19:00 (GMT+3)
 
-## Написать мне: 
- # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Envelope%20with%20Arrow.png" alt="Envelope with Arrow" width="25" height="25" />  [aslanberkw@gmail.com](mailto:aslanberkw@gmail.com) #
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Envelope%20with%20Arrow.png" alt="Envelope with Arrow" width="25" height="25" /> Написать мне: [aslanberkw@gmail.com](mailto:aslanberkw@gmail.com) 
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="Flexed Biceps" width="25" height="25" /> Мои навыки: 
 
@@ -37,8 +36,9 @@
   
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Link" width="25" height="25" />  Ещё способы написать мне:
 
-<a href="https://t.me/+04eG4Df0h7s5MjVi"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"     ></a> 
-<a href="https://discord.com/invite/bhdnMZ6YDj"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" ></a> 
-<a href="https://vk.com/aslanberk"><img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white" ></a>      
+<a href="https://t.me/+04eG4Df0h7s5MjVi"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"   ></a> 
+<a href="https://discord.com/invite/bhdnMZ6YDj"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"  ></a> 
+<a href="https://vk.com/aslanberk"><img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white" ></a>   
+<a href="mailto:aslanberkw@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" ></a>   
 
 
