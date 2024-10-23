@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="300" width="600" src="https://cdn.pfps.gg/banners/5132-pixel-mario.gif"  />
+  <img height="300" width="600" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
 </div>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=500&color=B0C4DE&center=true&random=false&width=1000&height=100&lines=Aslanb3rk" alt="Typing SVG" /></a>
 
