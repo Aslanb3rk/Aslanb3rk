@@ -26,8 +26,12 @@
 
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="84" height="84" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="84" height="84" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="84" height="84" /><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="84" height="84" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="84" height="84" /><img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="84" height="84" /><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="84" height="84" /><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="84" height="84"  /></div>
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" /> Моя статистика  
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" /> Моя статистика:  
 [![GitHub Streak](https://streak-stats.demolab.com?user=Aslanb3rk&theme=onedark&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&card_width=600&card_height=250)](https://git.io/streak-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aslanb3rk&theme=onedark)  
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aslanb3rk&theme=onedark) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aslanb3rk&theme=onedark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aslanb3rk&theme=onedark&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aslanb3rk&theme=onedark)
 <br/>
 
 
